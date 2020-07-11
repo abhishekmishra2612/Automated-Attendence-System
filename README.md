@@ -3,7 +3,7 @@ Developed a Attendence system which work in real time, it can mark the attendenc
 
 some screenshot while testing.
 
-![Screenshot (216)](https://user-images.githubusercontent.com/41646536/87219657-a632e080-c37a-11ea-8da3-5db5c9d2e02c.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/41646536/87219657-a632e080-c37a-11ea-8da3-5db5c9d2e02c.png)      ![Screenshot (228)](https://user-images.githubusercontent.com/41646536/87219676-f1e58a00-c37a-11ea-85ec-0e59e191ba0b.png)
 
 
 
