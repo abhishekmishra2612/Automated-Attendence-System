@@ -1,11 +1,11 @@
 # Automated-Attendence-System
-Developed an Automated Attendence System which work in real time, it can mark the attendence of a student just by recognizing the face of student. It can't recognize a person whose informations are not present in the database. It marks the Roll number , Name and Time of arrival into the .txt file.
+>>> Developed an Automated Attendence System which work in real time, it can mark the attendence of a student just by recognizing the face of student. It can't recognize a person whose informations are not present in the database. It marks the Roll number , Name and Time of arrival into the .txt file.
 
-The tools and libraries that have We used are face_recognition library which is built on top of dlib library, opencv, numpy and datetime module. This system is developed for recognizing the face of a person who is present in front of the web camera.
+>>> The tools and libraries that have We used are face_recognition library which is built on top of dlib library, opencv, numpy and datetime module. This system is developed for recognizing the face of a person who is present in front of the web camera.
 
-We can extend this system to recognizing the face of all the students sitting in the class room by some modifications.
+>> We can extend this system to recognizing the face of all the students sitting in the class room by some modifications.
 
-This system can be use for marking the attendence of students who will attend the class from home just by recognizing their face, so teacher can be free from taking the attendence of each of the student and by using this system putting of the proxy can be removed, but the main drawback of this system is it can recognize the face from image also.
+>>> This system can be use for marking the attendence of students who will attend the class from home just by recognizing their face, so teacher can be free from taking the attendence of each of the student and by using this system putting of the proxy can be removed, but the main drawback of this system is it can recognize the face from image also.
 
 ## Some screenshots while testing are :
 
